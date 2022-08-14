@@ -12,5 +12,5 @@ Uma simples tela de perfil de rede social feito para a disciplina de Autoria Web
   <h3>Status: ✔Concluído</h3>
 
 <div>
-  <h3>📌Confira o resultado <a href="https://sm-profile.netlify.app/">Aqui </a></h3>
+  <h3>📌Confira o resultado <a href="https://profile-social-media.netlify.app/">Aqui </a></h3>
 </div>
